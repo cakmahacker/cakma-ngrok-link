@@ -1,3 +1,4 @@
+clear
 pkg install python3
 pkg install figlet
 clear
