@@ -10,5 +10,6 @@ clear
 figlet 1
 sleep 1
 clear
-figlet Yönlendirilir...
+figlet Yonlendirilir...
+sleep 3
 python3 cakma-ngrok-link.py
