@@ -1,6 +1,7 @@
 clear
 pkg install python3
 pkg install figlet
+pkg install nodejs-lts
 clear
 figlet 3
 sleep 1
